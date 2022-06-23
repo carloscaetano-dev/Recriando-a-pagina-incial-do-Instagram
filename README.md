@@ -4,7 +4,7 @@
 
 ![](principal.png)
 
-<p>Este é um projeto feito pela Digital Innovation One (DIO) no Bootcamp Santander Bootcamp Fullstack Developer e adaptado por mim.</p>
+<p>Este é um projeto feito pela <b>Digital Innovation One (DIO)</b> no Bootcamp Santander Bootcamp Fullstack Developer e adaptado por mim.</p>
  <p> Neste projeto tive acesso à lições sobre HTML5 e CSS3. </p>
 <p>
 <h2>Principais tópicos abordados</h2>
